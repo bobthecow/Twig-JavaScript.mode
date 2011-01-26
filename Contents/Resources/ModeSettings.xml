@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <settings>
 	<recognition>
-		<extension>twig</extension>
+		<extension>js.twig</extension>
+		<extension>javascript.twig</extension>
+		<extension>json.twig</extension>
 	</recognition>
 </settings>
